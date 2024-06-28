@@ -1,4 +1,4 @@
-package com.emiyaconsulting.spring_boot_library;
+package com.emiyaconsulting.springbootlibrary;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
